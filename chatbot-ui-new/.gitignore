@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+*.sqlite3
+
+# Node / frontend
+node_modules/
+dist/
+*.tsbuildinfo
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data & cache
+chroma_data/
+carbonjar_knowledgebase.txt
+wheels/
+
+# Logs
+*.log
+
+# Ignore your local Git clone inside Chatbot_.git
+chatbot-ui-new/Chatbot_.git/

@@ -1,0 +1,7 @@
+env/
+wheels/
+__pycache__/
+node_modules/
+*.pyc
+chroma_data/
+*.tsbuildinfo
